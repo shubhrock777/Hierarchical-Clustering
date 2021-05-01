@@ -7,3 +7,9 @@ Problem Statement:
 
 Problem Statement:
 2.)	Perform clustering for the crime data and identify the number of clusters formed and draw inferences. Refer to crime_data.csv dataset
+
+Problem Statement:
+3.)	Perform clustering analysis on the telecom data set. The data is a mixture of both categorical and numerical data. It consists the number of customers who churn. Derive insights and get possible information on factors that may affect the churn decision. Refer to Telco_customer_churn.xlsx dataset.
+Hint: 
+•	Perform EDA and remove unwanted columns.
+•	Use Gower dissimilarity matrix, In R use daisy() function.
